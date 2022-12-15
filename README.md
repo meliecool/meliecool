@@ -2,7 +2,7 @@
 
 *Web Developer Front-End | Designer*
 
-<h2 style="margin-top: 40px; color: #37A9AF;">🚀 My skills</h2>
+## 🚀 My skills
 
 <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="30"></a></code>
 <code><a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="30"></a></code>
@@ -19,12 +19,14 @@
 
 ----
 
-<h2 style="margin-top: 40px; color: #37A9AF;">📝 About me</h2>
+## 📝 About me
 
-<table style="border: none">
+<table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="65%">
     Hi, I'm Camélie. A web developer and designer in my spare time (like every day 🫢). I'm volonteering for Aristopattes as a designer and web integrator, Foundation64 as an web integrator and working full time for Kumojin! 
+
+<br />
 
 - 💻 I'm working on the most wonderful place of the world
 - 👑 Princess of unit tests and BEM
@@ -33,12 +35,14 @@
 - 💞️ I’m looking to collaborate on any project to help people.
 - 📫 How to reach me cameliegroleau@hotmail.com
 
+<br />
+
 ![princess BEM](https://badgen.net/badge/princess/BEM/pink)
 ![princess unit tests](https://badgen.net/badge/princess/unit_tests/pink)
 ![fast learner](https://badgen.net/badge/fast/learner/green)
 ![multi-tasks](https://badgen.net/badge/multi/tasks/blue)
 ![always working](https://badgen.net/badge/always/working/blue)</td>
-<td valign="top" width="50%">
+<td  width="35%">
     <img src="https://media.tenor.com/XD7-TeVM5tkAAAAC/heavy-breathing-cat.gif" width="100%"/>
 </td>
   </tr>
@@ -47,14 +51,14 @@
 
 ----
 
-<h2 style="margin-top: 40px; color: #37A9AF;">🏆 Achievement</h2>
+## 🏆 Achievement
 
 - Queen CSS | Kumojin Dundee Awards
 
 
 ----
 
-<h3 style="margin-top: 40px; color: #37A9AF;">Last note</h3>
+### Last note
 I let you on this wonderful gif where we've all been when stuck on a bug
 
 <img src="https://i.imgur.com/zWXv2.gif" width="100%" />
