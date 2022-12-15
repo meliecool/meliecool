@@ -21,9 +21,10 @@
 
 <h2 style="margin-top: 40px; color: #37A9AF;">📝 About me</h2>
 
-<div style="display: inline-block;">
-<div style="margin-right: 20px;">
-Hi 👋 I'm Camélie. A web developer and designer in my spare time (like every day 🫢).
+<table>
+  <tr>
+    <td valign="top">
+    Hi, I'm Camélie. A web developer and designer in my spare time (like every day 🫢). I'm volonteering for Aristopattes as a designer and web integrator, Foundation64 as an web integrator and working full time for Kumojin! 
 
 - 💻 I'm working on the most wonderful place of the world
 - 👑 Princess of unit tests and BEM
@@ -35,12 +36,13 @@ Hi 👋 I'm Camélie. A web developer and designer in my spare time (like every 
 ![princess BEM](https://badgen.net/badge/princess/BEM/pink)
 ![princess unit tests](https://badgen.net/badge/princess/unit_tests/pink)
 ![fast learner](https://badgen.net/badge/fast/learner/green)
-![fast learner](https://badgen.net/badge/multi/tasks/blue)
+![multi-tasks](https://badgen.net/badge/multi/tasks/blue)
+![always working](https://badgen.net/badge/always/working/blue)</td>
+    <img valign="top" src="https://media.tenor.com/XD7-TeVM5tkAAAAC/heavy-breathing-cat.gif" style="margin-bottom: 50px"/>
+</td>
+  </tr>
+</table>
 
-
-</div>
-<img src="https://media.tenor.com/XD7-TeVM5tkAAAAC/heavy-breathing-cat.gif" style="margin-bottom: 50px"/>
-</div>
 
 ----
 
