@@ -2,7 +2,7 @@
 
 *Web Developer Front-End | Designer*
 
-<h2 style="margin-top: 40px;"><span style="color:pink">My skills</span></h2>
+<h2 style="margin-top: 40px;"><span style="color:blue">My skills</span></h2>
 
 <code><a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" height="30"></a></code>
 <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="30"></a></code>
