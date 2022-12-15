@@ -21,9 +21,9 @@
 
 <h2 style="margin-top: 40px; color: #37A9AF;">📝 About me</h2>
 
-<table>
+<table style="border: none">
   <tr>
-    <td valign="top">
+    <td valign="top" width="50%">
     Hi, I'm Camélie. A web developer and designer in my spare time (like every day 🫢). I'm volonteering for Aristopattes as a designer and web integrator, Foundation64 as an web integrator and working full time for Kumojin! 
 
 - 💻 I'm working on the most wonderful place of the world
@@ -38,7 +38,7 @@
 ![fast learner](https://badgen.net/badge/fast/learner/green)
 ![multi-tasks](https://badgen.net/badge/multi/tasks/blue)
 ![always working](https://badgen.net/badge/always/working/blue)</td>
-<td>
+<td valign="top" width="50%">
     <img src="https://media.tenor.com/XD7-TeVM5tkAAAAC/heavy-breathing-cat.gif" width="100%"/>
 </td>
   </tr>
