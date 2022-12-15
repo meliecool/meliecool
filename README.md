@@ -17,7 +17,7 @@
 <code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" height="30"></a></code>
 <code><a href="https://www.mongodb.com/"><img alt="MongoDB" title="MongoDB" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" height="30"></a></code>
 
-----
+<br />
 
 ## 📝 About me
 
@@ -48,15 +48,14 @@
   </tr>
 </table>
 
-
-----
+<br />
 
 ## 🏆 Achievement
 
 - Queen CSS | Kumojin Dundee Awards
 
 
-----
+<br />
 
 ### Last note
 I let you on this wonderful gif where we've all been when stuck on a bug
