@@ -2,7 +2,8 @@
 
 *Web Developer Front-End | Designer*
 
-<h2 style="margin-top: 40px; color: #37A9AF">My skills</h2>
+<font color='#37A9AF'><h2 style="margin-top: 40px;">My skills</h2>
+</font>
 
 <code><a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" height="30"></a></code>
 <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="30"></a></code>
@@ -18,13 +19,14 @@
 <code><a href="https://www.mongodb.com/"><img alt="MongoDB" title="MongoDB" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" height="30"></a></code>
 
 
-## <h2 style="margin-top: 40px; "><span style="color: #37A9AF">About me</span ></h2>
+<font color='#37A9AF'><h2 style="margin-top: 40px;">About me</h2></font>
 
 <div style="display: flex;">
 <div style="margin-right: 20px; flex: 2">
 Hi 👋 I'm Camélie. A web developer and also designer when I feel it.
 
 - 💻 I'm working on the most wonderful place of the world
+- 👑 Princess of unit tests and BEM
 - 👀 I’m interested in sewing, writing, coding and drawing!
 - 🌱 I’m currently learning react native.
 - 💞️ I’m looking to collaborate on any project to help people.
