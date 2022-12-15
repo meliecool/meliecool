@@ -38,7 +38,8 @@
 ![fast learner](https://badgen.net/badge/fast/learner/green)
 ![multi-tasks](https://badgen.net/badge/multi/tasks/blue)
 ![always working](https://badgen.net/badge/always/working/blue)</td>
-    <img valign="top" src="https://media.tenor.com/XD7-TeVM5tkAAAAC/heavy-breathing-cat.gif" style="margin-bottom: 50px"/>
+<td>
+    <img src="https://media.tenor.com/XD7-TeVM5tkAAAAC/heavy-breathing-cat.gif" width="100%"/>
 </td>
   </tr>
 </table>
