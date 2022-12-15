@@ -24,9 +24,8 @@
 <table>
   <tr>
     <td valign="top" width="65%">
-    Hi, I'm Camélie. A web developer and designer in my spare time (like every day 🫢). I'm volonteering for Aristopattes as a designer and web integrator, Foundation64 as an web integrator and working full time for Kumojin! 
+    <p>Hi, I'm Camélie. A web developer and designer in my spare time (like every day 🫢). I'm volonteering for Aristopattes as a designer and web integrator, Foundation64 as an web integrator and working full time for Kumojin!</p>
 
-<br />
 
 - 💻 I'm working on the most wonderful place of the world
 - 👑 Princess of unit tests and BEM
