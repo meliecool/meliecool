@@ -30,9 +30,9 @@
 - 💻 I'm working on the most wonderful place of the world
 - 👑 Princess of unit tests and BEM
 - 👀 I’m interested in sewing, writing, coding and drawing!
-- 🌱 I’m currently learning react native.
-- 💞️ I’m looking to collaborate on any project to help people.
-- 📫 How to reach me cameliegroleau@hotmail.com
+- 🌱 I’m currently learning react native
+- 💞️ I’m looking to collaborate on any project to help people
+- 📫 How to reach me cameliegroleau@hotmail.com or [![Linkedin: meliecool](https://img.shields.io/badge/-meliecool-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cameliegroleau/)](https://www.linkedin.com/in/cameliegroleau/)
 
 <br />
 
