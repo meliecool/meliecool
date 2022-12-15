@@ -27,12 +27,12 @@
     <p>Hi, I'm Camélie. A web developer and designer in my spare time (like every day 🫢). I'm volonteering for Aristopattes as a designer and web integrator, Foundation64 as an web integrator and working full time for Kumojin!</p>
 
 
-- 💻 I'm working on the most wonderful place of the world
-- 👑 Princess of unit tests and BEM
-- 👀 I’m interested in sewing, writing, coding and drawing!
-- 🌱 I’m currently learning react native
-- 💞️ I’m looking to collaborate on any project to help people
-- 📫 How to reach me cameliegroleau@hotmail.com or [![Linkedin: meliecool](https://img.shields.io/badge/-meliecool-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cameliegroleau/)](https://www.linkedin.com/in/cameliegroleau/)
+- I'm working on the most wonderful place of the world
+- Princess of unit tests and BEM
+- I’m interested in sewing, writing, coding and drawing!
+- I’m currently learning react native
+- I’m looking to collaborate on any project to help people
+- You can reach me on my LinkedIn here:  [![Linkedin: meliecool](https://img.shields.io/badge/-meliecool-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cameliegroleau/)](https://www.linkedin.com/in/cameliegroleau/)
 
 <br />
 
