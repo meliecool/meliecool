@@ -2,7 +2,7 @@
 
 *Web Developer Front-End | Designer*
 
-<h2 style="margin-top: 40px;"><span style="color:#37A9AF">My skills</span></h2>
+<h2 style="margin-top: 40px;"><span style="color:pink">My skills</span></h2>
 
 <code><a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" height="30"></a></code>
 <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="30"></a></code>
@@ -20,8 +20,8 @@
 
 <font color='#37A9AF'><h2 style="margin-top: 40px;">About me</h2></font>
 
-<div style="display: flex;">
-<div style="margin-right: 20px; flex: 2">
+<div style="display: inline-block;">
+<div style="margin-right: 20px;">
 Hi 👋 I'm Camélie. A web developer and also designer when I feel it.
 
 - 💻 I'm working on the most wonderful place of the world
@@ -31,7 +31,7 @@ Hi 👋 I'm Camélie. A web developer and also designer when I feel it.
 - 💞️ I’m looking to collaborate on any project to help people.
 - 📫 How to reach me cameliegroleau@hotmail.com
 </div>
-<img src="https://media.tenor.com/XD7-TeVM5tkAAAAC/heavy-breathing-cat.gif" style="flex: 1; margin-bottom: 50px"/>
+<img src="https://media.tenor.com/XD7-TeVM5tkAAAAC/heavy-breathing-cat.gif" style="margin-bottom: 50px"/>
 </div>
 
 I let you on this wonderful gif where we've all been when stuck on a bug
