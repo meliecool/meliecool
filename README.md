@@ -1,4 +1,4 @@
-# <div style="display: flex; align-items: 'center'"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" style="margin-right: 10px"/>Camélie Groleau | Kumojin team member 👩‍💻</div>
+# <div style="display: flex; align-items: 'center'"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" style="margin-right: 10px"/>Camélie Paradis | Kumojin team member 👩‍💻</div>
 
 *Web Developer Front-End | Designer*
 
@@ -32,7 +32,7 @@
 - I’m interested in sewing, writing, coding and drawing!
 - I’m currently learning react native
 - I’m looking to collaborate on any project to help people
-- You can reach me on my LinkedIn here:  [![Linkedin: meliecool](https://img.shields.io/badge/-meliecool-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cameliegroleau/)](https://www.linkedin.com/in/cameliegroleau/)
+- You can reach me on my LinkedIn here:  [![Linkedin: meliecool](https://img.shields.io/badge/-meliecool-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camelieparadis/)](https://www.linkedin.com/in/camelieparadis/)
 
 <br />
 
