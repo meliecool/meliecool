@@ -9,6 +9,7 @@
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="30"></a></code>
 <code><a href="https://www.typescriptlang.org"><img alt="TypeScript" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="30"></a></code>
 <code><a href="https://fr.reactjs.org/"><img alt="React" title="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="30"></a></code>
+<code><a href="https://reactnative.dev/"><img alt="React Native" title="React Native" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" height="30"></a></code>
 <code><a href="https://vuejs.org/"><img alt="Vuejs" title="Vuejs" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" height="30"></a></code>
 <code><a href="https://angular.io/"><img alt="Angular" title="Angular" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" height="30"></a></code>
 <code><a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" height="30"></a></code>
@@ -24,13 +25,12 @@
 <table>
   <tr>
     <td valign="top" width="65%">
-    <p>Hi, I'm Camélie. A web developer and designer in my spare time (like every day 🫢). I'm volonteering for Aristopattes as a designer and web integrator, Foundation64 as an web integrator and working full time for Kumojin!</p>
+    <p>Hi, I'm Camélie. A web developer and formerly designer</p>
 
 
-- I'm working on the most wonderful place of the world
 - Princess of unit tests and BEM
 - I’m interested in sewing, writing, coding and drawing!
-- I’m currently learning react native
+- I’m a big adept of accessibility
 - I’m looking to collaborate on any project to help people
 - You can reach me on my LinkedIn here:  [![Linkedin: meliecool](https://img.shields.io/badge/-meliecool-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camelieparadis/)](https://www.linkedin.com/in/camelieparadis/)
 
@@ -52,6 +52,7 @@
 ## 🏆 Achievement
 
 - Queen CSS | Kumojin Dundee Awards
+- L'arme secrète (secret weapon) | Kumojin Dundee Awards
 
 
 <br />
