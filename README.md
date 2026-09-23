@@ -1,4 +1,4 @@
-# <div style="display: flex; align-items: 'center'"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" style="margin-right: 10px"/>Camélie Paradis | Kumojin team member 👩‍💻</div>
+# <div style="display: flex; align-items: 'center'"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" style="margin-right: 10px"/>Camélie Paradis | Desjardins team member 👩‍💻</div>
 
 *Web Developer Front-End | Designer*
 
